@@ -129,6 +129,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_B296C9A2988C47F19A2BA48BCC4D2B11"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_D9CDCA4A492C01B10B3C29EAC4D880A4"
         "OwnerKey" = "8:_AC244E8DE9364AD18059855A64F60A61"
         "MsmSig" = "8:_UNDEFINED"
@@ -594,6 +600,26 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B296C9A2988C47F19A2BA48BCC4D2B11"
+            {
+            "SourcePath" = "8:..\\..\\..\\..\\Downloads\\iconzcore_9SY_icon.ico"
+            "TargetName" = "8:iconzcore_9SY_icon.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_46F7B38EEDA64108831C15F9C76DF5B4"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D9CDCA4A492C01B10B3C29EAC4D880A4"
             {
             "AssemblyRegister" = "3:1"
@@ -682,7 +708,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Muti Download"
         "ProductCode" = "8:{ADBBF7F8-63DD-4BF6-9B7C-6B13754C8EBA}"
-        "PackageCode" = "8:{B2856152-10C6-4638-BF2C-EA39420E53F1}"
+        "PackageCode" = "8:{8D48E79A-3286-4CB4-9260-53671F9424E4}"
         "UpgradeCode" = "8:{CD772920-2112-4F94-B2D1-F808AF4575CC}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
@@ -699,7 +725,7 @@
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:Một Addon để hỗ trợ Tool Tata"
         "ARPURLINFOABOUT" = "8:"
-        "ARPPRODUCTICON" = "8:_7CBDAB4042854382BE766F283A550E2C"
+        "ARPPRODUCTICON" = "8:_B296C9A2988C47F19A2BA48BCC4D2B11"
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
@@ -813,7 +839,7 @@
             "Target" = "8:_AC244E8DE9364AD18059855A64F60A61"
             "Folder" = "8:_6784287D48094AE4B2225F9D72F71A3C"
             "WorkingFolder" = "8:_46F7B38EEDA64108831C15F9C76DF5B4"
-            "Icon" = "8:"
+            "Icon" = "8:_B296C9A2988C47F19A2BA48BCC4D2B11"
             "Feature" = "8:"
             }
         }
